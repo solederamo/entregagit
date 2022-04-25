@@ -200,7 +200,7 @@ nav :hover{color:rgb(115, 115, 233);}
                 flex-wrap: wrap;}
               
 
-.imagenesindex :hover {transform: scale(2.8);
+.imagenesindex :hover {transform: scale(3);
                  transition-timing-function: ease-in-out; 
                  transition-duration: 1s;
                 border-radius: 20px;}      
